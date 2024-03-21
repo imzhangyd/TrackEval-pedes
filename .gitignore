@@ -4,6 +4,7 @@ tracker_output/*
 !tracker_output/Readme.md
 output/*
 data/trackers/*
+!data/trackers/mot_challenge/MOT17-train/20221127_result_auginput17dim_finethresh_wodist_onefut/
 data/gt/bdd100k/*
 data/gt/davis/*
 data/gt/kitti/*
