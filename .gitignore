@@ -1,0 +1,14 @@
+gt_data/*
+!gt_data/Readme.md
+tracker_output/*
+!tracker_output/Readme.md
+output/*
+data/trackers/*
+data/gt/bdd100k/*
+data/gt/davis/*
+data/gt/kitti/*
+data/gt/youtube_vis/*
+!goutput/Readme.md
+**/__pycache__
+.idea
+error_log.txt
